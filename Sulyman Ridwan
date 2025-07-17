@@ -1,0 +1,59 @@
+<h1 align="center">👋🏽 Ridwan Sulyman | Cybersecurity Enthusiast</h1>
+
+<p align="center">
+  🛡️ Cybersecurity | SOC Analyst | Threat Detection | Web Application Security<br>
+  📍 Lagos, Nigeria | 🌐 Remote-Ready | 📫 rsulyman19@gmail.com
+</p>
+
+---
+
+### 👨🏽‍💻 About Me
+
+Dedicated and detail-oriented cybersecurity professional passionate about defending digital environments through proactive threat detection and response. I maintain hands-on experience with real-world tools, security monitoring, and vulnerability assessments.
+
+I aim to bring value to security teams by helping organizations stay ahead of emerging threats.
+
+---
+
+### 🛠️ Skills & Tools
+
+- **SIEM & Monitoring**: Splunk, ELK Stack  
+- **Threat Hunting & Analysis**: Wireshark, Zeek, Suricata  
+- **Web App Security**: Burp Suite, OWASP ZAP, SQLMap, Nikto  
+- **Endpoint & Network Security**: Windows Defender, Firewalls, Nmap  
+- **Scripting & Automation**: Python (basic), Bash (basic)  
+- **General Tools**: Linux (Kali, Ubuntu), GitHub, AnyDesk, SLA Ticketing Systems
+
+---
+
+### 🔐 Cybersecurity Domains of Interest
+
+- Security Operations (SOC)
+- Incident Response & Threat Detection
+- Vulnerability Management
+- Web Application Penetration Testing
+- Email Security & Phishing Analysis
+
+---
+
+### 📁 Featured Projects
+
+| Project | Description | Tools |
+|--------|-------------|-------|
+| **Web Application Security Assessment** | Vulnerability testing on OWASP Juice Shop and reporting | OWASP ZAP, Burp Suite, PDF Report |
+| **Security Monitoring & Alerting** | Built custom use cases & alerts using SIEM dashboards | Splunk |
+| **Phishing Email Analysis Lab** | Header analysis, URL inspection, and threat identification | Linux CLI, VirusTotal |
+| **Network Traffic Analysis** | Analyzed suspicious packets and filtered malicious patterns | Wireshark, Zeek |
+
+➡️ [View My Repositories](https://github.com/InvestoorRichie?tab=repositories)
+
+---
+
+### 📫 Contact Me
+
+- **Email**: rsulyman19@gmail.com  
+- **LinkedIn**: [linkedin.com/in/ridwan-sulyman-b83b2b341](https://linkedin.com/in/ridwan-sulyman-b83b2b341)
+
+---
+
+<p align="center">“Security is not a product, it’s a process.” – Bruce Schneier</p>
